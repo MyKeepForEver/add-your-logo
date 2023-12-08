@@ -1,0 +1,139 @@
+{
+  "s": {
+    "default": {
+      "p": "svg"
+    },
+    "canva": {
+      "p": "png"
+    },
+    "netflix": {
+      "p": "png"
+    },
+    "apple": {
+      "p": "jpg"
+    },
+    "ovh": {
+      "p": "png"
+    },
+    "bitwarden": {
+      "p": "png"
+    },
+    "telegram": {
+      "p": "png"
+    },
+    "pinterest": {
+      "p": "png"
+    },
+    "x": {
+      "p": "jpg"
+    },
+    "behance": {
+      "p": "png"
+    },
+    "yandex": {
+      "p": "png"
+    },
+    "soundcloud": {
+      "p": "png"
+    },
+    "lcl": {
+      "p": "png"
+    },
+    "uber": {
+      "p": "png"
+    },
+    "amazon": {
+      "p": "jpg"
+    },
+    "whatsapp": {
+      "p": "webp"
+    },
+    "credit_agricole": {
+      "p": "png"
+    },
+    "medium": {
+      "p": "png"
+    },
+    "gmail": {
+      "p": "png"
+    },
+    "spotify": {
+      "p": "png"
+    },
+    "stack_overflow": {
+      "p": "png"
+    },
+    "crypto.com": {
+      "p": "png"
+    },
+    "microsoft": {
+      "p": "jpg"
+    },
+    "lastpass": {
+      "p": "png"
+    },
+    "bnp_parisbas": {
+      "p": "png"
+    },
+    "slack": {
+      "p": "png"
+    },
+    "aliexpress": {
+      "p": "jpg"
+    },
+    "tuta": {
+      "p": "png"
+    },
+    "reddit": {
+      "p": "png"
+    },
+    "threads": {
+      "p": "png"
+    },
+    "paypal": {
+      "p": "png"
+    },
+    "deezer": {
+      "p": "png"
+    },
+    "france_gouv": {
+      "p": "jpg"
+    },
+    "snapchat": {
+      "p": "png"
+    },
+    "instagram": {
+      "p": "png"
+    },
+    "quora": {
+      "p": "png"
+    },
+    "youtube": {
+      "p": "png"
+    },
+    "facebook": {
+      "p": "png"
+    },
+    "discord": {
+      "p": "webp"
+    },
+    "tiktok": {
+      "p": "jpg"
+    },
+    "linkedin": {
+      "p": "png"
+    },
+    "tumblr": {
+      "p": "png"
+    },
+    "yahoo": {
+      "p": "webp"
+    },
+    "google": {
+      "p": "png"
+    },
+    "plex": {
+      "p": "png"
+    }
+  }
+}
